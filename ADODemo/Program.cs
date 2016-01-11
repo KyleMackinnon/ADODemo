@@ -14,6 +14,7 @@ namespace ADODemo
             var DataReadSample = new DataReadSample();
             var DataWritesample = new DataWriteSample();
             DataWritesample.runDataWrite();
+
             //DataReadSample.RunDemoRead();
         }
 
